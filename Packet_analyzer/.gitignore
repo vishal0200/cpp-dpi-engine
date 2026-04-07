@@ -1,0 +1,25 @@
+# Build directory
+build/
+
+# Executables
+*.exe
+*.out
+
+# Object files
+*.obj
+*.o
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# PCAP files
+*.pcap
+
+# VS Code
+.vscode/
+
+# Python cache
+__pycache__/
